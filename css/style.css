@@ -88,6 +88,7 @@ body {
     background-position: center bottom;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+    margin-top: -1px;
 }
 .card__header {
     position: relative;
@@ -95,7 +96,7 @@ body {
 }
 .card__topText {
     font-size: 16px;
-    width: 279px;
+    width: 281px;
     height: 42px;
     margin-bottom: 0;
     background: #f2f2f2;
@@ -119,7 +120,7 @@ body {
     margin-left: 4px;
     position: absolute;
     bottom: 0;
-    left: -5px;
+    left: -6px;
     margin-bottom: -5px;
 }
 .card__corner::before {
